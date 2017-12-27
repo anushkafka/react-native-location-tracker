@@ -14,14 +14,14 @@ export default class TabStrip extends Component {
     this.state = {
       selectedTab: 1,
       markers: [{
-        title: 'hello1',
+        title: 'Central Perk',
         coordinates: {
           latitude: 37.78825,
-          longitude: -122.4324,
+          longitude: -122.4320,
         },
       },
       {
-        title: 'hello2',
+        title: 'Krusty Krab',
         coordinates: {
           latitude: 37.78825,
           longitude: -122.4372,
